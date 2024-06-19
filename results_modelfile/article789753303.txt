@@ -1,0 +1,39 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "outrage erupted", "rightfully so"
+
+2. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: "Officer Guyger was terminated for her actions."
+
+3. Appeal to Fear/Prejudice: Builds support by instilling anxiety or panic towards an alternative.
+	* Example: None detected in this article.
+
+4. Flag-Waving: Utilizes strong national feelings (or respect to a group) to justify actions or ideas.
+	* Example: None detected in this article.
+
+5. Causal Oversimplification: Assumes a single reason for an issue when multiple causes exist.
+	* Example: None detected in this article.
+
+6. Appeal to Authority: Claims a statement is true because a valid authority or expert supports it.
+	* Example: None detected in this article.
+
+7. Slogans: Brief, striking phrases that include labeling and stereotyping.
+	* Example: None detected in this article.
+
+8. Thought-Terminating Clichés: Uses words or phrases that discourage critical thought and useful discussion.
+	* Example: None detected in this article.
+
+9. Whataboutism/Straw Men/Red Herring: Attempts to discredit an opponent's position by charging them with hypocrisy without directly disproving their argument.
+	* Example: None detected in this article.
+
+10. Black-and-White Fallacy: Presents two alternative options as the only possibilities, ignoring other options.
+	* Example: None detected in this article.
+
+11. Bandwagon/Reductio ad Hitlerum: Justifies actions or ideas because "everyone else is doing it" or rejects them because they are favored by despised groups.
+	* Example: None detected in this article.
+
+12. Doubt: Questions the credibility of someone or something.
+	* Example: None detected in this article.
+
+No other propaganda techniques were detected in this article.

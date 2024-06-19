@@ -1,0 +1,33 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+    - Example: "a menace to society"
+
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+    - Example: "dangerous and reckless actions" (labeling Cody Wilson's actions)
+
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+    - Example: The article repeats the phrase "undetectable plastic weapons" several times.
+
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+    - Example: The article states that thousands of people downloaded the blueprints, but does not provide a specific number.
+
+5. Appeal to Fear / Prejudice: Builds support by instilling anxiety or panic towards an alternative.
+    - Example: The article quotes Kris Brown from the Brady Campaign saying "There is simply no way of telling how much damage has already been done..."
+
+6. Flag-Waving: Utilizes strong national feelings (or respect to a group) to justify actions or ideas.
+    - No example found in this article.
+
+7. Causal Oversimplification: Assumes a single reason for an issue when multiple causes exist.
+    - Example: The article states that the 1988 law made the current 3D-printed gun issue moot, but does not provide context about the law or its implications.
+
+8. Appeal to Authority: Claims a statement is true because a valid authority or expert supports it.
+    - Example: The article quotes Sarah Sanders from the White House and Kris Brown from the Brady Campaign.
+
+9. Scare Tactics: Uses fear-mongering to influence the audience's perception of an issue.
+    - Example: The article states that "the debate is over" and that "the guns are downloadable", implying that something catastrophic has already happened.
+
+10. Red Herring: Introduces a diversion or a false argument to distract from the main issue.
+    - No example found in this article.
+
+Note that some of these techniques may be subtle or implicit, and not all instances may be intentional or malicious.

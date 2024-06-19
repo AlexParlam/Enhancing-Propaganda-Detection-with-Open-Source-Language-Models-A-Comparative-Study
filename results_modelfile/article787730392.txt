@@ -1,0 +1,12 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "If these were white Christians...No one would bat an eye"
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: "New Mexico Jihadis" (labels the group as "Jihadis", implying they are terrorists)
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: The repeated phrase "If these were white Christians..." is used to emphasize the point that the authorities would not be concerned if the suspects were white Christians.
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+	* Example: The article minimizes the severity of the situation by stating that the suspects' actions are "not a big deal" if they were white Christians.
+
+No other propaganda techniques were detected in this article.

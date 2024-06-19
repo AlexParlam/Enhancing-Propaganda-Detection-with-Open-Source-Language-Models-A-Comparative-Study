@@ -1,0 +1,25 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "special treatment of Amber Guyger", "killing an innocent man", "injustice"
+
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: "killer cop", "cop who has yet to even be fired for killing Jean"
+
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: The article repeats the phrase "special treatment" and "injustice" several times to emphasize its point.
+
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+	* Example: The article claims that police released Jean's apartment search warrant findings on the day his family buried his dead body, implying that this was an egregious act of injustice.
+
+5. Emotional Appeal: Appeals to emotions rather than reason to persuade the audience.
+	* Example: The article uses phrases like "killing an innocent man" and "injustice" to evoke feelings of outrage and sympathy for the victim's family.
+
+6. False Dilemma: Presents only two options as if they were the only possibilities, when in reality there may be other options.
+	* Example: The article implies that police are either incompetent or corrupt, without considering alternative explanations.
+
+7. Appeal to Consequences: Appeals to the audience's sense of morality and consequences by emphasizing the negative outcomes of a particular action.
+	* Example: The article suggests that if police had searched Guyger's apartment, it would have been a positive outcome for justice, implying that not searching her apartment is unjust.
+
+8. Bandwagon Effect: Suggests that many people already agree with the author's position to create a sense of momentum and pressure on the audience.
+	* Example: The article mentions that "those paying attention" can see the injustice in police actions, implying that the majority of people agree with this assessment.

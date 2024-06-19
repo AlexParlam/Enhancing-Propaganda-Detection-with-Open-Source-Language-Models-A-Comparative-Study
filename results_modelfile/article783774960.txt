@@ -1,0 +1,10 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "jihadis", "mass school shootings", "little jihadis"
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: "Muslim jihadis", "Islamists"
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: The article repeats the phrase "nothing!" twice, emphasizing that important issues were ignored.
+
+Note: These are the only three propaganda techniques detected in the article.

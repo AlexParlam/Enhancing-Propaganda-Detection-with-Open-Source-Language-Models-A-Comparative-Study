@@ -1,0 +1,32 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "sore loser", "arrogant wanna-be first female governor of Georgia"
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: "Stacey Abrams is a sore loser just like Hillary Clinton"
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: "she wouldn't even concede", "she's not going to concede", "concession means..."
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+	* Example: "hundreds of thousands of voter registrations" (exaggeration), "Abrams was easily defeated in terms of votes" (minimization)
+5. Appeal to Fear / Prejudice: Builds support by instilling anxiety or panic towards an alternative.
+	* Example: None detected
+6. Flag-Waving: Utilizes strong national feelings (or respect to a group) to justify actions or ideas.
+	* Example: None detected
+7. Causal Oversimplification: Assumes a single reason for an issue when multiple causes exist.
+	* Example: "Abrams was the one trying to 'find' and count votes" (oversimplifies the issue of voter registration)
+8. Appeal to Authority: Claims a statement is true because a valid authority or expert supports it.
+	* Example: None detected
+9. Slogans: Brief, striking phrases that include labeling and stereotyping.
+	* Example: "Good! Thank God, Georgia didn't elect this peach"
+10. Thought-Terminating Clichés: Uses words or phrases that discourage critical thought and useful discussion.
+	* Example: "That's just the way it is" (implied in the phrase "Thank God, Georgia didn't elect this peach")
+11. Whataboutism / Straw Men / Red Herring: Attempts to discredit an opponent's position by charging them with hypocrisy without directly disproving their argument.
+	* Example: "What about invalid provisional ballots getting mixed in with valid ones? Maybe a little electronic voter manipulation, Ms. Abrams?"
+12. Black-and-White Fallacy: Presents two alternative options as the only possibilities, ignoring other options.
+	* Example: None detected
+13. Bandwagon / Reductio ad Hitlerum: Justifies actions or ideas because "everyone else is doing it" or compares an opponent to a historical figure known for their negative actions.
+	* Example: None detected
+14. Ad Hominem Attack: Attacks the person making the argument rather than addressing the argument itself.
+	* Example: "Stacey Abrams is a sore loser just like Hillary Clinton"
+
+Note that some of these techniques may be used multiple times in the article, but I have only listed each one once.

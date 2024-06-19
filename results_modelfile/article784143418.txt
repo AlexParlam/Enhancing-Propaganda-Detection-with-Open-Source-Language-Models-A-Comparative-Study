@@ -1,0 +1,10 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "Raise An Army" "Killing Non-Believers On Behalf Of Allah"
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: "enemedia" (labeling the media as an enemy)
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: The article repeats the phrase "jihad training camp" and emphasizes the idea that the group was training for jihad.
+
+No other propaganda techniques were detected in this article.

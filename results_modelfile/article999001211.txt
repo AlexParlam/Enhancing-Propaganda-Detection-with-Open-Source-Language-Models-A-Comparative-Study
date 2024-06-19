@@ -1,0 +1,32 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+    - Example: "a surreal, frivolous ruling"
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+    - Example: "constitutionalist", "ridiculous demand", "unprofessional behavior"
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+    - Example: "We would have greatly preferred...", "But, given the position taken by CNN..."
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+    - Example: "This is my advice to the White House... Don't call on Jim Acosta another time for as long as he remains in the White House Press."
+5. Appeal to Fear / Prejudice: Builds support by instilling anxiety or panic towards an alternative.
+    - Example: "I can see this going way downhill"
+6. Flag-Waving: Utilizes strong national feelings (or respect to a group) to justify actions or ideas.
+    - No example found in the article
+7. Causal Oversimplification: Assumes a single reason for an issue when multiple causes exist.
+    - Example: "The fact that the White House submitted to such a ridiculous demand... is a testimony to how little those who represent us know of our Constitution."
+8. Appeal to Authority: Claims a statement is true because a valid authority or expert supports it.
+    - No example found in the article
+9. Slogans: Brief, striking phrases that include labeling and stereotyping.
+    - Example: "Make him regret it the entire time he is there"
+10. Thought-Terminating Clichés: Uses words or phrases that discourage critical thought and useful discussion.
+    - Example: "I can see this going way downhill"
+11. Whataboutism / Straw Men / Red Herring: Attempts to discredit an opponent's position by charging them with hypocrisy without directly disproving their argument.
+    - No example found in the article
+12. Black-and-White Fallacy: Presents two alternative options as the only possibilities, ignoring other options.
+    - Example: "You should either agree with me or be a constitutionalist"
+13. Bandwagon / Reductio ad Hitlerum: Justifies actions or ideas because "everyone else is doing it" or rejects them because they are favored by despised groups.
+    - No example found in the article
+14. Loaded Question: Frames an issue in such a way as to suggest a particular answer.
+    - Example: "The White House should be telling Judge Kelly where he can take his ruling..."
+
+Please note that some of these techniques may be subtle or implicit, and not all instances may be explicitly stated in the article.

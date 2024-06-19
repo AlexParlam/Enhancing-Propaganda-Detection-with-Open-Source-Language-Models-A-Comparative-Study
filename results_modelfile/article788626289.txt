@@ -1,0 +1,32 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "Emotional And Physical Abuse", "lather", "pure politically-motivated hypocrisy"
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: "Muslim Brotherhood Congressman Hakim Muhammad, aka Keith Ellison" (labeling as Muslim Brotherhood)
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: The article repeats the phrase "Karen Monahan is telling the truth" and emphasizes that there is no evidence of Brett Kavanaugh's abuse
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+	* Example: The article claims that Democrats are in a "lather" over Ford and Kavanaugh, implying excessive reaction
+5. Appeal to Fear / Prejudice: Builds support by instilling anxiety or panic towards an alternative.
+	* Example: None detected
+6. Flag-Waving: Utilizes strong national feelings (or respect to a group) to justify actions or ideas.
+	* Example: None detected
+7. Causal Oversimplification: Assumes a single reason for an issue when multiple causes exist.
+	* Example: The article implies that Democrats are only concerned about Ford and Kavanaugh, ignoring other possible reasons
+8. Appeal to Authority: Claims a statement is true because a valid authority or expert supports it.
+	* Example: None detected
+9. Slogans: Brief, striking phrases that include labeling and stereotyping.
+	* Example: "Make America great again!" (not present in this article)
+10. Thought-Terminating Clichés: Uses words or phrases that discourage critical thought and useful discussion.
+	* Example: The phrase "it is what it is" is not present, but the article's tone can be seen as discouraging critical thought
+11. Whataboutism / Straw Men / Red Herring: Attempts to discredit an opponent's position by charging them with hypocrisy without directly disproving their argument.
+	* Example: The article implies that Democrats are hypocrites for supporting Ford and Kavanaugh while ignoring Monahan's allegations
+12. Black-and-White Fallacy: Presents two alternative options as the only possibilities, ignoring other options.
+	* Example: The article presents a binary choice between believing Karen Monahan or not, without considering other possible explanations
+13. Bandwagon / Reductio ad Hitlerum: Justifies actions or ideas because "everyone else is doing it" or rejects them because they are favored by despised groups.
+	* Example: None detected
+14. Doubt: Questions the credibility of someone or something.
+	* Example: The article questions the credibility of Democrats and their support for Ford and Kavanaugh
+
+No propaganda techniques were detected in this article.
