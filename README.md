@@ -79,8 +79,8 @@ Usage
 
 The results of the evaluations and inferences are stored in their respective directories:
 - `results_oob`: Results from out-of-the-box models.
-- `results_modelfile`: Results from models fine-tuned with specific training files.
-- `results_inference`: Inference results from the fine-tuned models.
+- `results_modelfile`: Results from models fine-tuned with modelfile (by ollama).
+- `results_inference`: Results from model with integrated LangChain technology and the all-MiniLM-L6-v2 embedding model.
 
 
 For any questions or inquiries, please contact Oleksandr Lytvyn
