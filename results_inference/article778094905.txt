@@ -1,0 +1,7 @@
+After analyzing the article, I detected the following propaganda techniques:
+
+* Appeal to Fear/Prejudice: The article builds support for its idea by instilling anxiety and panic in the audience towards Islamic extremism, implying that it's a threat to American safety.
+* Black-and-White Fallacy: The article presents two alternative options as the only possibilities: either Islamic extremism is a real threat or political correctness is the problem. It ignores the possibility of more nuanced approaches.
+* Causal Oversimplification: The article assumes that Barack Obama's presidency was directly responsible for Islamic extremist camps existing in America, without providing evidence to support this claim.
+
+No other propaganda techniques were detected.

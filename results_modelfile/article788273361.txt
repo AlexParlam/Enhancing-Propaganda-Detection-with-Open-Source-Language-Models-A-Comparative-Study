@@ -1,0 +1,27 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "Democrats don't believe my story" (emotional appeal)
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: "Democratic Party doesn't believe my story" (labeling)
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+	* Example: Monahan's tweets repeating her claims and experiences
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+	* Example: "I have nothing to prove to anyone" (minimizing)
+5. Appeal to Fear / Prejudice: Builds support by instilling anxiety or panic towards an alternative.
+	* Example: None detected in this article
+6. Flag-Waving: Utilizes strong national feelings (or respect to a group) to justify actions or ideas.
+	* Example: None detected in this article
+7. Causal Oversimplification: Assumes a single reason for an issue when multiple causes exist.
+	* Example: "The Democratic Party doesn't believe my story" (oversimplifying)
+8. Appeal to Authority: Claims a statement is true because a valid authority or expert supports it.
+	* Example: None detected in this article
+9. Slogans: Brief, striking phrases that include labeling and stereotyping.
+	* Example: "Believe women" (slogan)
+10. Thought-Terminating Clichés: Uses words or phrases that discourage critical thought and useful discussion.
+	* Example: "I have nothing to prove to anyone" (thought-terminating cliché)
+11. Whataboutism / Straw Men / Red Herring: Attempts to discredit an opponent's position by charging them with hypocrisy without directly disproving their argument.
+	* Example: Monahan accusing the Democratic Party of not believing her story while comparing it to the treatment of Christine Blasey Ford (whataboutism)
+12. No propaganda techniques were detected in this article.
+
+Please note that these findings are based on my analysis and may be subjective.

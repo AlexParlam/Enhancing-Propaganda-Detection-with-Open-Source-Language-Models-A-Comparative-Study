@@ -1,0 +1,56 @@
+1 Appeal to Authority
+Definition: Supposes that a claim is true because a valid authority or expert on the issue supports it.
+Example: "The World Health Organization stated that this new vaccine is the most effective treatment available, and doctors around the globe recommend it."
+
+2 Appeal to Fear/Prejudice
+Definition: Builds support for an idea by instilling anxiety and/or panic in the audience towards an alternative.
+Example: "If we don't enact these new security measures, we will be at greater risk of terrorist attacks, jeopardizing our safety."
+
+3 Bandwagon, Reductio ad Hitlerum
+Definition: Justify actions or ideas because everyone else is doing it, or reject them because it’s favored by groups despised by the target audience.
+Example: "Everyone is switching to this new social media platform; don't be left out!" or "This policy is favored by extremist groups; we should reject it."
+
+4 Black-and-White Fallacy
+Definition: Presents two alternative options as the only possibilities, when actually more options exist.
+Example: "You must either support this law, or you are against public safety."
+
+5 Causal Oversimplification
+Definition: Assumes a single reason for an issue when there are multiple causes.
+Example: "The economic downturn is solely due to immigration policies."
+
+6 Doubt
+Definition: Questioning the credibility of someone or something.
+Example: "Can we really trust her to handle our finances after her previous business failed?"
+
+7 Exaggeration, Minimization
+Definition: Either representing something in an excessive manner or making something seem less important than it actually is.
+Example: "He single-handedly revolutionized the industry!" or "It was just a minor mistake, nothing significant."
+
+8 Flag-Waving
+Definition: Playing on strong national feeling (or with respect to a group, e.g., race, gender, political preference) to justify or promote an action or idea.
+Example: "Supporting this bill is a patriotic duty for every citizen who loves their country."
+
+9 Loaded Language
+Definition: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+Example: "The ruthless corporation is laying off thousands of dedicated employees."
+
+10 Name Calling/Labeling
+Definition: Gives a label to the object of the propaganda campaign as either the audience hates or loves.
+Example: "Only an idiot would fall for such obvious lies."
+
+11 Repetition
+Definition: Repeats the message over and over in the article so that the audience will accept it.
+Example: "Our leader's wisdom is unmatched. Their decisions are always fair and just."
+
+12 Slogans
+Definition: A brief and striking phrase that contains labeling and stereotyping.
+Example: "Build back better!"
+
+13 Thought-Terminating Clichés
+Definition: Words or phrases that discourage critical thought and useful discussion about a given topic.
+Example: "That's just the way it is."
+
+14 Whataboutism, Straw Men, Red Herring
+Definition: Attempts to discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument.
+Example: "How can you criticize this administration's policy when your own party had similar issues?"
+

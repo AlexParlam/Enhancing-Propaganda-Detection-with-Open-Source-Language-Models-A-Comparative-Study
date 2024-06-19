@@ -1,0 +1,7 @@
+After analyzing the article, I detected several propaganda techniques:
+
+1. **Appeal to Fear/Prejudice**: The article builds support for its idea by instilling anxiety and panic in the audience towards the Islamic compound and the people involved, portraying them as a threat.
+2. **Reductio ad Hitlerum** (a subset of **Whataboutism, Straw Men, Red Herring**): The phrase "sharia compliance in New Mexico" is an attempt to discredit Islam by implying that it is somehow incompatible with American values or laws.
+3. **Bandwagon, Reductio ad Hitlerum**: The article's tone and language are designed to get the audience on board with its negative portrayal of the Islamic compound and its inhabitants.
+
+No other propaganda techniques were detected in this article.

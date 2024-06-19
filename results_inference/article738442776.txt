@@ -1,0 +1,7 @@
+After analyzing the article, I detected some propaganda techniques:
+
+* **Appeal to emotions**: The article uses strong emotional language to emphasize the importance of upholding human rights and the consequences of condoning torture ("one of the darkest chapters in American history", "desperately misguided decision").
+* **Loaded language**: Phrases like "torture of detainees" and "futile effort to produce intelligence by means of torture" are designed to evoke strong emotions and create a negative impression of those who support or condone such practices.
+* **Repetition**: The article repeats the idea that the US government squandered its moral authority through the use of enhanced interrogation techniques, emphasizing the importance of not repeating this mistake.
+
+No other propaganda techniques were detected in this article.

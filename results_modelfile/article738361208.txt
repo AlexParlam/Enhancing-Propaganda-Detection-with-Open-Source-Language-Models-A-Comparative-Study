@@ -1,0 +1,43 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+    - Example: "world-on-fire, Russians everywhere State Department shenanigans"
+
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+    - Example: "Russian proxy war", "Bush-era torture regime"
+
+3. Repetition: Repeats a message multiple times to ensure the audience accepts it.
+    - Example: The repeated emphasis on Pompeo's views aligning with those of Hillary Clinton and Barack Obama.
+
+4. Exaggeration / Minimization: Either represents something excessively or downplays its importance.
+    - Example: The article presents Haspel's involvement in torture as a minor issue, while emphasizing her role in the destruction of interrogation videotapes.
+
+5. Appeal to Fear / Prejudice: Builds support by instilling anxiety or panic towards an alternative.
+    - Example: The article portrays Pompeo's views on Russia as a threat to national security and implies that Haspel's involvement in torture is a danger to American values.
+
+6. Flag-Waving: Utilizes strong national feelings (or respect to a group) to justify actions or ideas.
+    - Example: The article presents Trump's administration as a symbol of American strength and patriotism, while criticizing the previous administrations for their foreign policy and intelligence doctrines.
+
+7. Causal Oversimplification: Assumes a single reason for an issue when multiple causes exist.
+    - Example: The article implies that Pompeo's views on Russia are solely responsible for his appointment as Secretary of State, without considering other factors that may have contributed to Trump's decision.
+
+8. Appeal to Authority: Claims a statement is true because a valid authority or expert supports it.
+    - Example: The article cites the Washington Post and The Intercept as credible sources to support its claims about Haspel's involvement in torture.
+
+9. Slogans: Brief, striking phrases that include labeling and stereotyping.
+    - Example: "world-on-fire, Russians everywhere State Department shenanigans"
+
+10. Thought-Terminating Clichés: Uses words or phrases that prevent critical thinking and promote a specific viewpoint.
+    - Example: The article uses terms like "Russian proxy war" and "Bush-era torture regime" to create a negative perception of Russia and the previous administrations.
+
+11. False Dilemma: Presents only two options as if they are the only possibilities, when in reality there may be other alternatives.
+    - Example: The article implies that Trump's administration is either a symbol of American strength or a continuation of the previous administrations' mistakes, without considering other possible scenarios.
+
+12. Ad Hominem Attack: Attacks an individual's character rather than addressing their arguments.
+    - Example: The article portrays Haspel as a supporter of torture and presents her involvement in its destruction as a negative aspect of her character.
+
+13. Reductio ad Absurdum: Presents an argument or idea as absurd or ridiculous to discredit it.
+    - Example: The article implies that Pompeo's views on Russia are absurd and dangerous, while presenting Haspel's involvement in torture as a serious issue.
+
+14. Appeal to Consequences: Appeals to the audience's fear of negative consequences if they do not accept the presented viewpoint.
+    - Example: The article presents Trump's administration as a threat to national security and American values, implying that accepting his policies will have negative consequences for the country.

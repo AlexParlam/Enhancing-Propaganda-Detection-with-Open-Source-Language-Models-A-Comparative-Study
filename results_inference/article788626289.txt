@@ -1,0 +1,6 @@
+Analyzing the article, I detect some propaganda techniques used:
+
+1. **Appeal to Fear/Prejudice**: The article builds support for the idea that Karen Monahan is telling the truth by instilling anxiety and panic in the audience towards the alternative (i.e., questioning her allegations). For example, "There is abundant evidence that Karen Monahan is telling the truth when she says that Muslim Brotherhood Congressman Hakim Muhammad, aka Keith Ellison, abused her."
+2. **Whataboutism, Straw Men, Red Herring**: The article attempts to discredit an opponent's position (in this case, Democrats) by charging them with hypocrisy without directly disproving their argument. For example, "And that shows that all their #MeToo rhetoric is pure politically-motivated hypocrisy — as if anyone didn’t know that by now."
+
+No other propaganda techniques are detected in the article.

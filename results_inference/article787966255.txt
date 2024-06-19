@@ -1,0 +1,8 @@
+After analyzing the article, I detected several propaganda techniques:
+
+1. **Loaded Language**: The article uses strong emotional language to describe Amber Guyger's actions and treatment by law enforcement, such as "killing an innocent man" and "special treatment."
+2. **Flag-Waving**: The article appeals to a sense of national feeling by mentioning the Dallas Cowboys' stadium and evoking emotions about racial injustice.
+3. **Bandwagon, Reductio ad Hitlerum**: The article implies that everyone else is criticizing Amber Guyger's actions, creating a sense of consensus around her guilt.
+4. **Whataboutism**: The article presents Jean's family as victims of police brutality and asks readers to empathize with them, rather than addressing the specific claims made in the article.
+
+No other propaganda techniques were detected.

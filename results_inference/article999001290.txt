@@ -1,0 +1,6 @@
+I analyzed the article for any of 14 propaganda techniques and detected the following:
+
+* Repetition: The article repeats the phrase "White House" multiple times to emphasize the location.
+* Appeal to Authority: Judge Kelly's ruling is quoted, implying that his authority lends credibility to the decision.
+
+No other propaganda techniques were detected.

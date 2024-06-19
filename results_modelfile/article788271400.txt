@@ -1,0 +1,31 @@
+Here are the propaganda techniques detected in the article:
+
+1. Loaded Language: Uses specific phrases and words that carry strong emotional impact to affect the audience.
+	* Example: "repugnant and outright disrespectful move", "pillar of society", "innocent man's home and shot him dead", "wrong place at the wrong time", "tragic mistake"
+
+2. Name Calling / Labeling: Assigns a label to the object of the propaganda campaign to incite either love or hate from the audience.
+	* Example: Ted Cruz is labeled as being "repugnant" and "outright disrespectful"
+
+3. Repetition: Repeats certain phrases or ideas multiple times to emphasize their importance.
+	* Example: The phrase "wrong place at the wrong time" is repeated twice, emphasizing that it's not just a mistake.
+
+4. Emotional Appeal: Uses emotional language to elicit an emotional response from the audience.
+	* Example: The article uses words like "tragedy", "innocent man", and "killed" to create an emotional response.
+
+5. False Equivalence: Presents two sides as being equal when one side is more dominant or has more power.
+	* Example: The article claims that Ted Cruz and police officers are treating Amber Guyger differently because she's part of the system, implying that it's unfair.
+
+6. Misdirection: Directs attention away from the main issue to a secondary issue.
+	* Example: The article focuses on the perceived bias in the investigation rather than the actual facts of the case.
+
+7. Appeal to Conscience: Appeals to the audience's sense of morality and justice.
+	* Example: The article presents Amber Guyger's actions as "wrong" and demands that she be held accountable, appealing to the audience's sense of justice.
+
+8. Red Herring: Introduces a false or misleading issue to distract from the main topic.
+	* Example: The article mentions the police finding marijuana in Botham Jean's house, but it's not clear how this is relevant to the case.
+
+9. Appeal to Authority: Presents an authority figure as supporting the author's claims.
+	* Example: The article cites Matt Agorist as the author, implying that he has expertise or credibility on the topic.
+
+10. Bandwagon Effect: Encourages readers to join a popular opinion or movement.
+	* Example: The article presents itself as part of a larger movement against police bias and corruption, encouraging readers to join in.
