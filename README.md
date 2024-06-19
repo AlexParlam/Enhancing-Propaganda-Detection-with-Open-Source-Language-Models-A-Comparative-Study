@@ -1,10 +1,10 @@
-Enhancing Propaganda Detection with Open-Source Language Models: A Comparative Study
+# Enhancing Propaganda Detection with Open-Source Language Models: A Comparative Study
 
-Introduction
+## Introduction
 
 This repository contains the code and data for the project "Enhancing Propaganda Detection with Open-Source Language Models: A Comparative Study." The aim of this project is to evaluate the performance of various open-source language models in detecting propaganda in text data. The study involves the use of different models and techniques to compare their effectiveness in identifying propaganda.
 
-Repository Structure
+## Repository Structure
 
 The repository is organized as follows:
 
@@ -18,7 +18,7 @@ The repository is organized as follows:
 - **results_modelfile**: Contains the results from models fine-tuned with specific training files.
 - **results_oob**: Stores the results from out-of-the-box models without any fine-tuning.
 
-Installation
+## Installation
 
 To set up the project, follow these steps:
 
