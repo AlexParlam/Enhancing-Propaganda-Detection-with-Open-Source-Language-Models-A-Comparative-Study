@@ -25,8 +25,8 @@ To set up the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AlexParlam/Enhancing-Propaganda-Detection-with-Open-Source-Language-Models-A-Comparative-Study.git
-   cd Enhancing-Propaganda-Detection-with-Open-Source-Language-Models-A-Comparative-Study
+   git clone https://github.com/AlexParlam/Propaganda-Detection-Comparative-Study.git
+   cd Propaganda-Detection-Comparative-Study
    ```
 
 2. Create a virtual environment and activate it:
